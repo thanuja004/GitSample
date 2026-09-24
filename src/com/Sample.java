@@ -6,6 +6,8 @@ public class Sample {
 		System.out.println("helo java");
 		System.out.println("my new file");
 		System.out.println("my new page");
+		System.out.println("new");
+		
 		}
 
 }
